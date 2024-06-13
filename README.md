@@ -2,41 +2,6 @@
 
 This project contains a simple Brainfuck compiler written in C. The compiler reads Brainfuck code from a file and executes it.
 
-## Directory Structure
-
-project/
-│
-├── src/
-│ └── brainfuck.c
-│
-├── test/
-│ ├── test1.bf
-│ ├── test1.out
-│ ├── test2.bf
-│ ├── test2.out
-│ ├── test3.bf
-│ ├── test3.out
-│ ├── test4.bf
-│ ├── test4.out
-│ ├── test5.bf
-│ ├── test5.out
-│ ├── test6.bf
-│ ├── test6.out
-│ ├── test7.bf
-│ ├── test7.out
-│ ├── test8.bf
-│ ├── test8.out
-│ ├── test9.bf
-│ ├── test9.out
-│ ├── test10.bf
-│ ├── test10.out
-│ └── run_tests.sh
-│
-├── .gitignore
-
-├──run_tests.sh
-└── README.md
-
 ## Test Scripts
 
 ## Compilation and Execution
